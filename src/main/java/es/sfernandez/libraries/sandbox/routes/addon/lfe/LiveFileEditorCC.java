@@ -1,4 +1,4 @@
-package es.sfernandez.libraries.sandbox.routes.lfe;
+package es.sfernandez.libraries.sandbox.routes.addon.lfe;
 
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.button.Button;

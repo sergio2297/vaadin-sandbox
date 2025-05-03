@@ -1,4 +1,4 @@
-package es.sfernandez.libraries.sandbox.routes.lfe;
+package es.sfernandez.libraries.sandbox.routes.addon.lfe;
 
 import com.vaadin.flow.component.contextmenu.MenuItem;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;

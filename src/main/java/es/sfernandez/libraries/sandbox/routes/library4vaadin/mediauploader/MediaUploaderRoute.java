@@ -1,4 +1,4 @@
-package es.sfernandez.libraries.sandbox.routes.mediauploader;
+package es.sfernandez.libraries.sandbox.routes.library4vaadin.mediauploader;
 
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.router.Route;
